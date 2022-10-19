@@ -1,0 +1,11 @@
+.nav-link.active {
+    color: rgb(221, 212, 230) !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: rgb(227, 203, 203) !important;
+}
+.container {
+    height: 5vw;
+}
